@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+![Michaela's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mgmichaela)
 
 <!--
 **mgmichaela/mgmichaela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
